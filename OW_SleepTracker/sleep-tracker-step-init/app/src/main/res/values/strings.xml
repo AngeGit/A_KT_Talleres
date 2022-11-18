@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sleep Tracker</string>
+
+    <string name="permission_dialog_title">Permisos para reconocimiento de actividad</string>
+    <string name="permission_dialog_message">Para obtener información sobre tu actividad necesitas conceder permisos a Sleep Tracker.</string>
+    <string name="permission_dialog_positive_button_text">Conceder</string>
+    <string name="permission_dialog_negative_button_text">No, gracias</string>
+
+    <string name="settings_dialog_title">Permisos para reconocimiento de actividad</string>
+    <string name="settings_dialog_message">Conceder permisos manualmente desde la aplicación de Ajustes</string>
+    <string name="settings_dialog_positive_button_text">Ir a Ajustes</string>
+    <string name="settings_dialog_negative_button_text">No, gracias</string>
+
+</resources>
